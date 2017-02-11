@@ -3,3 +3,111 @@
 
 
 //First screen styles
+a.navbar-brand.navbar-link {
+  width:220px;
+}
+@media (max-width:991px) {
+  a.navbar-brand.navbar-link {
+    width:150px;
+  }
+}
+
+div#bunner.banner_section {
+  margin-top:0px;
+  text-align:center;
+  background:url(../img/mail_bg.jpg) center center;
+  background-size:cover;
+  margin-bottom:-30px;
+}
+
+div.jumbotron {
+  display:-webkit-flex;
+  display:flex;
+  flex-direction:column;
+  -webkit-align-items:center;
+  align-items:center;
+  /*height:100vh;*/
+  padding-top:35vh;
+  padding-bottom:35vh;
+  background:transparent;
+}
+
+.jumbotron h1 {
+  font-family:'Pacifico', sans-serif;
+  text-shadow:-0.094rem 0.163rem 0.438rem black;
+  color:#fff!important;
+  font-size:6.625rem;
+  font-weight:400;
+  text-align:center;
+}
+
+body {
+  background-color:transparent;
+}
+
+.jumbotron p {
+  margin-top:27px;
+  margin-bottom:15px;
+  font-size:22px;
+  font-weight:200;
+  color:white;
+  font-family:"Times New Roman";
+  width:70%;
+}
+
+.navbar-inverse {
+  background-image:-webkit-linear-gradient(top,#3c3c3c 0,#222 50%);
+  background-image:-o-linear-gradient(top,#3c3c3c 0,#222 100%);
+  background-image:-webkit-gradient(linear,left top,left bottom,from(#3c3c3c),to(#222));
+  background-image:linear-gradient(to bottom,#3c3c3c 0,#222 50%);
+  filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff3c3c3c', endColorstr='#ff222222', GradientType=0);
+  filter:progid:DXImageTransform.Microsoft.gradient(enabled=false);
+  background-repeat:repeat-x;
+  border-radius:4px;
+}
+
+.navbar {
+  height:94px;
+  background-color:rgba(0, 0, 0, 0.64);
+  background-image:none;
+}
+
+a.btn.btn-link {
+  width:162px;
+  height:45px;
+  border:0.125rem solid white;
+  border-radius:5px;
+  color:#fff;
+  font-family:"Times New Roman";
+  font-size:2.3rem;
+  font-weight:400;
+  line-height:2.8rem;
+  text-decoration:none;
+}
+
+.navbar-inverse .navbar-brand, .navbar-inverse .navbar-nav > li > a {
+  text-shadow:0 -1px 0 rgba(0,0,0,.25);
+  font-family:MyriadPro;
+  /*font-size:1.063rem;*/
+}
+
+.navbar-nav {
+  /*margin:21px -15px;*/
+  /*padding-top:21px;*/
+}
+
+
+.navbar-inverse .navbar-nav > li > a:focus, .navbar-inverse .navbar-nav > li > a:hover {
+  padding-top:36px;
+  padding-bottom:38px;
+  display:inline-block;
+  color:#fff;
+  background-color:transparent;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+  color:#9d9d9d;
+  padding-top:36px;
+  padding-bottom:38px;
+  display:inline-block;
+}
