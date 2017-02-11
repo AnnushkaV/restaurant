@@ -384,3 +384,61 @@ p {
   margin-bottom:30px;
 }
 
+
+footer.footer {
+  background:url(../img/bg6.jpg) center no-repeat;
+  background-size:cover;
+}
+
+.footer .section_heading {
+  color:#fff;
+  margin-bottom:20px;
+  text-align:center;
+}
+
+.footer p {
+  text-align:center;
+  color:#fff;
+  width:80%;
+  margin:0 auto;
+}
+
+.social_group i {
+  font-size:25px;
+  color:#e7a331;
+  margin-right:15px;
+}
+
+div.social_group {
+  text-align:center;
+  margin-top:20px;
+}
+
+.footer .day {
+  margin-bottom:15px;
+  margin-top:10px;
+}
+
+.footer input {
+  margin-bottom:10px;
+  border-radius:5px;
+  height:44px;
+  background-color:#323232;
+  border:none;
+}
+
+.footer textarea {
+  border-radius:5px;
+  height:107px;
+  background-color:#323232;
+  border:none;
+  resize:none;
+}
+
+.footer .info_block {
+  height:274px;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+}
+
