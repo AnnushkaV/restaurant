@@ -26,17 +26,16 @@ div.jumbotron {
   flex-direction:column;
   -webkit-align-items:center;
   align-items:center;
-  /*height:100vh;*/
   padding-top:35vh;
   padding-bottom:35vh;
   background:transparent;
 }
 
-.jumbotron h1 {
+.banner_section .jumbotron h1 {
   font-family:'Pacifico', sans-serif;
   text-shadow:-0.094rem 0.163rem 0.438rem black;
   color:#fff!important;
-  font-size:6.625rem;
+  font-size:106px;
   font-weight:400;
   text-align:center;
 }
@@ -48,11 +47,11 @@ body {
 .jumbotron p {
   margin-top:27px;
   margin-bottom:15px;
-  font-size:22px;
+  font-size:25px;
   font-weight:200;
   color:white;
   font-family:"Times New Roman";
-  width:70%;
+  width:65%;
 }
 
 .navbar-inverse {
