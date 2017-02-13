@@ -6,12 +6,20 @@
 a.navbar-brand.navbar-link {
   width:280px;
 }
+@media (max-width:1000px) {
+  a.navbar-brand.navbar-link {
+    width:220px;
+  }
+}
 @media (max-width:991px) {
   a.navbar-brand.navbar-link {
     width:150px;
   }
 }
-
+.navbar-nav {
+  margin: 7.5px -15px;
+  background: #222;
+}
 #banner.banner_section {
   margin-top:0px;
   text-align:center;
@@ -103,4 +111,18 @@ a.btn.btn-link {
   padding: 37px 25px;
   display:inline-block;
   font-size: 18px;
+}
+
+@media (max-width: 1000px){
+  .navbar-inverse .navbar-nav > li > a {
+    padding: 37px 10px;
+  }
+}
+@media (max-width:700px){
+  .navbar-inverse .navbar-nav>li>a {
+    padding: 12px 10px;
+  }
+    .nav>li {
+    text-align: center;
+  }
 }

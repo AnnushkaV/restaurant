@@ -361,6 +361,7 @@ p {
 
 .menu ul {
   line-height:1em;
+  padding-left: 0;
 }
 
 .menu li span {
@@ -368,7 +369,7 @@ p {
   font-weight:700;
   float:right;
 }
-
+/*
 .menu li:before {
   content:'';
   display:inline-block;
@@ -377,7 +378,7 @@ p {
   width:50px;
   left:15px;
   background-image:url(../img/dish_icon.png);
-}
+}*/
 
 .menu .section_heading {
   margin-bottom:30px;

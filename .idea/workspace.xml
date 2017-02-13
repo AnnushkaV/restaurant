@@ -29,14 +29,14 @@
               <folding>
                 <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="e#30793#30799#0" expanded="true" />
-                <element signature="e#30916#30922#0" expanded="true" />
-                <element signature="e#30999#31005#0" expanded="true" />
-                <element signature="e#31660#31666#0" expanded="true" />
-                <element signature="e#31791#31796#0" expanded="true" />
-                <element signature="e#31803#31809#0" expanded="true" />
-                <element signature="e#31850#31856#0" expanded="true" />
-                <element signature="e#31903#31909#0" expanded="true" />
+                <element signature="e#30034#30040#0" expanded="true" />
+                <element signature="e#30157#30163#0" expanded="true" />
+                <element signature="e#30240#30246#0" expanded="true" />
+                <element signature="e#30901#30907#0" expanded="true" />
+                <element signature="e#31032#31037#0" expanded="true" />
+                <element signature="e#31044#31050#0" expanded="true" />
+                <element signature="e#31091#31097#0" expanded="true" />
+                <element signature="e#31144#31150#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -148,15 +148,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1486751080639</updated>
-      <workItem from="1486751081870" duration="7076000" />
+      <workItem from="1486751081870" duration="7700000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7076000" />
+    <option name="totallyTimeSpent" value="7700000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1612" height="876" extended-state="0" />
+    <frame x="-8" y="-8" width="1612" height="876" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -209,14 +209,14 @@
           <folding>
             <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#30793#30799#0" expanded="true" />
-            <element signature="e#30916#30922#0" expanded="true" />
-            <element signature="e#30999#31005#0" expanded="true" />
-            <element signature="e#31660#31666#0" expanded="true" />
-            <element signature="e#31791#31796#0" expanded="true" />
-            <element signature="e#31803#31809#0" expanded="true" />
-            <element signature="e#31850#31856#0" expanded="true" />
-            <element signature="e#31903#31909#0" expanded="true" />
+            <element signature="e#30034#30040#0" expanded="true" />
+            <element signature="e#30157#30163#0" expanded="true" />
+            <element signature="e#30240#30246#0" expanded="true" />
+            <element signature="e#30901#30907#0" expanded="true" />
+            <element signature="e#31032#31037#0" expanded="true" />
+            <element signature="e#31044#31050#0" expanded="true" />
+            <element signature="e#31091#31097#0" expanded="true" />
+            <element signature="e#31144#31150#0" expanded="true" />
           </folding>
         </state>
       </provider>
